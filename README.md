@@ -1,4 +1,4 @@
-# Time-Series
+# Série Temporal
 **WEB ANALYTICS: MODELANDO SÉRIE TEMPORAL COM ARIMA E MLP**
 
 O **objetivo** deste experimento é analisar o padrão de acessos ao blog "Viagem de Cinema", no período de 01/6/2010 até 31/5/2022, e identificar qual o modelo preditivo funciona melhor para essa série temporal: o *Auto-Regressive Integrated Moving Average* (ARIMA) ou o *Multilayer Perceptron* (MLP).
